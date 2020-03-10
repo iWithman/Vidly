@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{87868730-765B-435A-9C67-81697AB21E16}|">
+  <MonoDevelop.Ide.ItemProperties.Vidly PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vidly/Views/Shared/_NavBar.ascx">
+    <Files>
+      <File FileName="Vidly/Views/Movies/Random.cshtml" Line="10" Column="7" />
+      <File FileName="Vidly/Models/Movie.cs" Line="13" Column="2" />
+      <File FileName="Vidly/Controllers/MoviesController.cs" Line="24" Column="14" />
+      <File FileName="Vidly/App_Start/BundleConfig.cs" />
+      <File FileName="Vidly/App_Start/RouteConfig.cs" Line="18" Column="3" />
+      <File FileName="Vidly/Models/Customer.cs" Line="8" Column="6" />
+      <File FileName="Vidly/ViewModels/RandomMovieViewModel.cs" Line="4" Column="1" />
+      <File FileName="Vidly/Views/Shared/_Layout.cshtml" Line="11" Column="1" />
+      <File FileName="Vidly/Views/Shared/_NavBar.ascx" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vidly" expanded="True">
+            <Node name="Vidly" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Movies" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_NavBar.ascx" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
